@@ -20,7 +20,12 @@
     padding: 20px;
     margin: 30px 10px 20px 10px;
 }
-
+.my-name{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #353434;
+    margin-top: 5px;
+}
 .img-profile-box{
     display: flex;
     align-items: center;
